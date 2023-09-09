@@ -1,4 +1,5 @@
-### Hi there 👋
+### Doing things Boomarian
+This is a repository of all my projects past and present.
 
 <!--
 **boomyville/boomyville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
