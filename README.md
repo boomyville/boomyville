@@ -1,4 +1,4 @@
-## Doing things Boomarian
+# Doing things Boomarian
 This is a repository of all my projects past and present.
 
 ## Boomyville Attack
