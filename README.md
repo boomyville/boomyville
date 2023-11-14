@@ -1,10 +1,10 @@
 # Doing things Boomarian
 This is a repository of all my projects past and present.
 
-## Boomyville Attack
+## [Boomyville Defense](https://boomyville.itch.io/boomyville-defense)
 A missile command clone that I made based on my childhood memories of playing it on the school iMacs back in primary school. Created with Game Maker Studio using Game Maker Language.
 
-## Triuoomy
+## [Triuoomy](https://boomyville.itch.io/triuoomy)
 A match 3 game with a Tetris twist. Created with gdscript in the Godot game engine. There is an upgrade system where players can gain new skills
 
 ## Wordingo
@@ -15,3 +15,6 @@ A turn based tactics game similar to Into The Breach and Fire Emblem using the S
 
 ## Boomy Online
 A PHP / SQL / Bootstrap web browser game that I created during lockdown. A throwback to the old school browser games I used to play back in high school. This is a rewritted version of an old project of mine that replaces a lot of the mindless minigames with a fairly functional deckbuilder card battler. 
+
+## [Optometry Business Landing Page](https://cwel.com.au)
+A basic webpage I created for a fellow optometrist for their rebranding. Uses basic CSS/HTML stuff that I learnt whilst doing an online coding program. 
