@@ -1,7 +1,7 @@
 # Doing things Boomarian
 This is a repository of all my projects past and present.
 
-## [Boomyville Defense](https://boomyville.itch.io/boomyville-defense)
+## Boomyville Defense
 A missile command clone that I made based on my childhood memories of playing it on the school iMacs back in primary school. Created with Game Maker Studio using Game Maker Language.
 
 ## [Triuoomy](https://boomyville.itch.io/triuoomy)
