@@ -1,13 +1,10 @@
 # Doing things Boomarian
 This is a repository of all my projects past and present.
 
-## Boomyville Defense
-A missile command clone that I made based on my childhood memories of playing it on the school iMacs back in primary school. Created with Game Maker Studio using Game Maker Language.
-
 ## [Triuoomy](https://boomyville.itch.io/triuoomy)
 A match 3 game with a Tetris twist. Created with gdscript in the Godot game engine. There is an upgrade system where players can gain new skills
 
-## Wordingo
+## [Wordingo](https://boomyville.itch.io/wordingo)
 A wordle clone. Created with gdscript in the Godot game engine. I made it during lockdown when Wordle was hype and the word of the day was FAVOR. Which is the wrong spelling of favour. I also changed it to become an endless game because once people completed the daily Wordle, they had to wait until the next day to play. So I added a high score table and sent it to my friends. 
 
 ## Boomarian Quest
