@@ -13,5 +13,5 @@ A turn based tactics game similar to Into The Breach and Fire Emblem using the S
 ## Boomy Online
 A PHP / SQL / Bootstrap web browser game that I created during lockdown. A throwback to the old school browser games I used to play back in high school. This is a rewritted version of an old project of mine that replaces a lot of the mindless minigames with a fairly functional deckbuilder card battler. 
 
-## [Optometry Business Landing Page](https://cwel.com.au)
+## [Optometry Business Landing Page](http://cwel.com.au)
 A basic webpage I created for a fellow optometrist for their rebranding. Uses basic CSS/HTML stuff that I learnt whilst doing an online coding program. 
