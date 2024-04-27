@@ -1,5 +1,5 @@
 # Doing things Boomarian
-This is a repository of all my projects past and present.
+This is a repository of all my projects past and present. I have a keen interest in game and web development. I am currently on a journey to transition from Optometry to IT.
 
 ## [Triuoomy](https://boomyville.itch.io/triuoomy)
 A match 3 game with a Tetris twist. Created with gdscript in the Godot game engine. There is an upgrade system where players can gain new skills
