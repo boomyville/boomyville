@@ -13,3 +13,20 @@ A domino deckbuilder game made using GDScript and Godot Engine. Players build a 
 
 ## [Optometry Business Landing Page](http://cwel.com.au)
 A basic webpage I created for a fellow optometrist for their rebranding. Uses basic CSS/HTML stuff that I learnt whilst doing an online coding program. 
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZzhaNBYJKwYBBAHaRw8BAQdALiqtmlxtG/cUfZNttgIrawBgYmFfdFZL7X+E
+65e4N2e0JEtldmluIFRlb25nIDxrZXZpbnRlb25nQG91dGxvb2suY29tPoiZBBMW
+CgBBFiEEFONXi+bgpstzFz0OyoRi0D6VIsEFAmc4WjQCGwMFCQWjLtwFCwkIBwIC
+IgIGFQoJCAsCBBYCAwECHgcCF4AACgkQyoRi0D6VIsFR5gEAlJ66bnf2fVzbQly1
+XNIWcsaWxyNWZKAdg9CIdXeRtYMBAPRu/kOvhbX+wqsgNlEZmz7Vv+CSFvvs8zTc
+a6nq6PsBuDgEZzhaNBIKKwYBBAGXVQEFAQEHQE574dCMFs/qpPP/NHvtl40YN0BI
+cboQ7gzLnnQ5uYM7AwEIB4h+BBgWCgAmFiEEFONXi+bgpstzFz0OyoRi0D6VIsEF
+Amc4WjQCGwwFCQWjLtwACgkQyoRi0D6VIsEnXQD/VyntyJwrrNpsKDbf9AZ91pTq
+gHEhV6jPKA7q4iOq+/oA/295n4netPibgGgpr0tP1T53TJ7Lz7XP9srNy45I17oK
+=vaih
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
