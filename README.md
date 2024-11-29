@@ -14,6 +14,7 @@ A domino deckbuilder game made using GDScript and Godot Engine. Players build a 
 ## [Optometry Business Landing Page](http://cwel.com.au)
 A basic webpage I created for a fellow optometrist for their rebranding. Uses basic CSS/HTML stuff that I learnt whilst doing an online coding program. 
 
+## My public encryption key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
