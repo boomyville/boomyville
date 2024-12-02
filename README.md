@@ -11,7 +11,7 @@ A wordle clone. Created with gdscript in the Godot game engine. I made it during
 ![Demo](https://github.com/boomyville/domino-dominion/blob/main/screenRecordings/CurrentBuild.gif?raw=true)
 A domino deckbuilder game made using GDScript and Godot Engine. Players build a collection of dominos and battle against enemy AI. Each played domino has various effects and the game involves a combination of strategy, planning and a little bit of RNG.
 
-## [Card Battler](https://github.com/boomyville/Boomarian-Quest-Online)
+## [Online Collectable Card Game](https://github.com/boomyville/Boomarian-Quest-Online)
 ![Demo](https://github.com/boomyville/Boomarian-Quest-Online/raw/main/Screenshots/regular_battle.gif?raw=true)
 A 2020 lockdown project using PHP, Bootstrap 4, JQuery and MySQL. A fantasy collectable card battler game where players collect cards and fight monsters for rewards. Uses reCaptcha for anti-bot registration and PHPMailer for email verification. 
 
