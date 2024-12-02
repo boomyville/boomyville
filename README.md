@@ -12,6 +12,7 @@ A wordle clone. Created with gdscript in the Godot game engine. I made it during
 A domino deckbuilder game made using GDScript and Godot Engine. Players build a collection of dominos and battle against enemy AI. Each played domino has various effects and the game involves a combination of strategy, planning and a little bit of RNG.
 
 ## [Optometry Business Landing Page](http://cwel.com.au)
+![Preview of Website](https://github.com/boomyville/optometry-figma/blob/main/preview.gif?raw=true)
 A basic webpage I created for a fellow optometrist for their rebranding. Uses basic CSS/HTML stuff that I learnt whilst doing an online coding program. 
 
 ## My public encryption key
